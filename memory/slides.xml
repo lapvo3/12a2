@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Slides>
+    <slideNode jpegURL="thumbs/1.jpg" xthumb="100" ythumb="72" d_URL="slides/1.jpg" xslide="800" yslide="581" comm="" listtext="Image information 0:  C:\Documents and Settings\Administrator\Desktop\1.jpg">1    </slideNode>
+    <slideNode jpegURL="thumbs/2.jpg" xthumb="100" ythumb="72" d_URL="slides/2.jpg" xslide="800" yslide="581" comm="" listtext="Image information 1:  C:\Documents and Settings\Administrator\Desktop\2.jpg">2    </slideNode>
+    <slideNode jpegURL="thumbs/3.jpg" xthumb="100" ythumb="72" d_URL="slides/3.jpg" xslide="800" yslide="581" comm="" listtext="Image information 2:  C:\Documents and Settings\Administrator\Desktop\3.jpg">3    </slideNode>
+    <slideNode jpegURL="thumbs/4.jpg" xthumb="100" ythumb="72" d_URL="slides/4.jpg" xslide="800" yslide="581" comm="" listtext="Image information 3:  C:\Documents and Settings\Administrator\Desktop\4.jpg">4    </slideNode>
+    <slideNode jpegURL="thumbs/5.jpg" xthumb="100" ythumb="72" d_URL="slides/5.jpg" xslide="800" yslide="581" comm="" listtext="Image information 4:  C:\Documents and Settings\Administrator\Desktop\5.jpg">5    </slideNode>
+</Slides>
